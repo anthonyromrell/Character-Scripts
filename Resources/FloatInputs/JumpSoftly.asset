@@ -8,7 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f1accd195871449d9a44c163459f053, type: 3}
-  m_Name: PlayerOne
+  m_Script: {fileID: 11500000, guid: 2d4588fb1e31743448ade8ed66354770, type: 3}
+  m_Name: JumpSoftly
   m_EditorClassIdentifier: 
-  PlayerMovePattern: {fileID: 11400000, guid: f3758fe0de0f341d580fdeea3f901f5e, type: 2}
+  InputName: Jump
+  FloatValue: 0
+  floatReturn: 6

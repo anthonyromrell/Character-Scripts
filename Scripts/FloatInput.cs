@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Assertions.Comparers;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "FloatInput", menuName = "Player/Inputs/FloatInput")]
 public class FloatInput : InputBase, IInput
 {
 

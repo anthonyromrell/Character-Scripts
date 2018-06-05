@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f1accd195871449d9a44c163459f053, type: 3}
-  m_Name: PlayerOne
+  m_Script: {fileID: 11500000, guid: 1ebe3d88c55c1445b838877591f98485, type: 3}
+  m_Name: MoveStyleIsGrounded
   m_EditorClassIdentifier: 
-  PlayerMovePattern: {fileID: 11400000, guid: f3758fe0de0f341d580fdeea3f901f5e, type: 2}
+  MoveStyle: {fileID: 11400000, guid: 2da84002269cd41da9a0cff069e9c53e, type: 2}

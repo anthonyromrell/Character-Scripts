@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd822570a7e8b6498ee7d6aa0ab2ade, type: 3}
+  m_Name: SideScrollerDoubleJump
+  m_EditorClassIdentifier: 
+  speed: 6
+  gravity: 71
+  moveDirection: {x: 0, y: -1.1919484, z: 0}
+  rotateDirection: {x: 0, y: 0, z: 0}
+  InputX: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  InputY: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  InputZ: {fileID: 11400000, guid: 1e0d8978eaf8af64badf3b5ca2419e26, type: 2}
+  InputRotateX: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  InputRotateY: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  InputRotateZ: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  JumpInput: {fileID: 11400000, guid: 05721240bab1c40b699f486a909b5bfc, type: 2}
+  Controller: {fileID: 0}
+  ObjTransform: {fileID: 0}
+  MoveStyle: {fileID: 11400000, guid: 9bfcc240104b541968afdd60c1822f51, type: 2}

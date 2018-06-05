@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 
-[CreateAssetMenu(fileName = "BoolInput")]
+[CreateAssetMenu(fileName = "BoolInput", menuName = "Player/Inputs/BoolInput")]
 public class BoolInput : InputBase
 {
 	public string InputName = "Jump";
-	public float FloatValue = 1;
+	public float FloatValue = 10;
 	
 	public override float SetFloat()
 	{

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Assertions.Comparers;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "FloatConstant", menuName = "Player/Inputs/FloatConstant")]
 public class FloatConstant : InputBase, IInput
 {
 
@@ -14,4 +14,3 @@ public class FloatConstant : InputBase, IInput
         return FloatValue;
     }
 }
-

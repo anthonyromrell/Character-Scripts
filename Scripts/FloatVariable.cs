@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-[CreateAssetMenu(fileName = "FloatVariable")]
+[CreateAssetMenu(fileName = "FloatVariable", menuName = "Player/Inputs/FloatVariable")]
 public class FloatVariable : InputBase, IInput 
 {
 	private float floatValue;
